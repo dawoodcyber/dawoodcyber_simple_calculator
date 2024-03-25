@@ -1,6 +1,6 @@
 {
-  "name": "dawoodcyber_simple_calculator",
-  "version": "1.0.0",
+  "name": "simple_calculator_dawoodcyber",
+  "version": "1.0.1",
   "description": "Simple calculator by using arithmetic operators",
   "main": "index.js",
   "type":"module",
